@@ -1,12 +1,12 @@
 RETAIL-BANK-TRANSACTION-AND-CUSTOMER-ANALYSIS
 1. BACKGROUND
-This project simulates a real-world scenario for a US-based retail bank (Aurora Bank). The bank processes thousands of transactions daily across multiple states. However, the Risk Management and Operations teams flagged concerns regarding a high volume of transaction failures and a growing segment of over-leveraged customers.
+- This project simulates a real-world scenario for a US-based retail bank (Aurora Bank). The bank processes thousands of transactions daily across multiple states. However, the Risk Management and Operations teams flagged concerns regarding a high volume of transaction failures and a growing segment of over-leveraged customers.
 
 2. OBJECTIVES
-This dashboard serves a dual purpose: acting as an Operational Tracker to monitor daily transaction volumes, customer engagement, and geographic performance, and a Diagnostic Instrument to investigate the root causes of transaction errors and assess credit risk (Debt-to-Income ratios) to support targeted mitigation strategies.
+- This dashboard serves a dual purpose: acting as an Operational Tracker to monitor daily transaction volumes, customer engagement, and geographic performance, and a Diagnostic Instrument to investigate the root causes of transaction errors and assess credit risk (Debt-to-Income ratios) to support targeted mitigation strategies.
 
 3. WORKFLOW
-The project execution followed a structured end-to-end BI development lifecycle:
+- The project execution followed a structured end-to-end BI development lifecycle:
 
 Phase 1: Requirement Analysis & Design
 
