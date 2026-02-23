@@ -53,7 +53,7 @@ Page 2: Customer Intelligence (Demographics & Behavior)
 
 Page 3: Risk & Operations (Fraud & Failures)
 
-<img width="2878" height="1616" alt="Ảnh chụp màn hình 2026-02-23 145835" src="https://github.com/user-attachments/assets/0cc3ab02-0cb5-4ba6-a17e-955b1aa478ad" />
+<img width="2220" height="1247" alt="Ảnh chụp màn hình 2026-02-23 154059" src="https://github.com/user-attachments/assets/eec50c55-1d66-4afe-ae38-11fc87370939" />
 
 - The Over-leverage Crisis (DTI): The dashboard uncovers a critical financial risk: 1.34K customers are flagged as "Critical Risk", driving the Average Debt-to-Income Ratio to an alarming 138.17%.   - This segment accounts for a massive 67.05% of the DTI Risk Group Breakdown.
 
