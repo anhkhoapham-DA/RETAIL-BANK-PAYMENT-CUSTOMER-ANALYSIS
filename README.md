@@ -1,4 +1,4 @@
-RETAIL-BANK-TRANSACTION-AND-CUSTOMER-ANALYSIS
+#RETAIL-BANK-TRANSACTION-AND-CUSTOMER-ANALYSIS
 1. BACKGROUND
 - This project simulates a real-world scenario for a US-based retail bank (Aurora Bank). The bank processes thousands of transactions daily across multiple states. However, the Risk Management and Operations teams flagged concerns regarding a high volume of transaction failures and a growing segment of over-leveraged customers.
 
