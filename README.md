@@ -37,9 +37,9 @@ Page 1: Executive Overview (Transaction Dynamics)
 
 - Digital Channel Dominance: The breakdown of transaction methods reveals a massive reliance on digital banking. Online Transactions account for the absolute majority at 67.53% ($4.64M), dwarfing Swipe (17.12%) and Chip (15.35%) transactions.
 - Concentration: The state-level heatmap indicates that major economic hubs—specifically Texas, California, New York, and Florida—are the primary drivers of transaction volume.
-
+- Behavior: Total Transaction Amount peaks during active afternoon hours (3-8 PM), while Average Transaction Value (ATV) inversely spikes late at night (2-4 AM) due to automated payments.
 -> Insight: The bank has successfully transitioned its user base to digital platforms. However, this heavy reliance means the digital infrastructure must have 99.9% uptime.
--> Strategic Action: IT infrastructure budget should be prioritized for the mobile/web banking app to handle peak online loads. Marketing teams should allocate higher budgets for localized campaigns in the top-performing states (TX, CA, NY, FL) to capture further market share.
+-> Strategic Action: IT infrastructure budget should be prioritized for the mobile/web banking app to handle peak online loads. Marketing teams should allocate higher budgets for localized campaigns in the top-performing states (TX, CA, NY, FL) to capture further market share. Ensure system stability during the 2-4 AM high-ATV window to protect large transfers, and launch marketing campaigns during the 3-8 PM peak volume hours.
 
 Page 2: Customer Intelligence (Demographics & Behavior)
 
